@@ -1,2 +1,3 @@
-for i in range(9):
-    print(i+1)
+n=int(input())
+for i in range(n):
+    print(i)
